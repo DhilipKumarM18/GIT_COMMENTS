@@ -1,0 +1,5 @@
+1. git init: Initializes a new git repository.
+2. git add .: Stages changes for commit.
+3. git commit -m 'message': Commits the staged changes.
+4. git push: Pushes local commits to a remote repository.
+5. git pull: Fetches and merges changes from a remote repository
